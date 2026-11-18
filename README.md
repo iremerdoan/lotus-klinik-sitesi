@@ -6,6 +6,11 @@ Bir psikiyatri kliniği için **Tailwind CSS** ve **DaisyUI** ile kodladığım 
 
 ![Ana sayfa](docs/ekran-goruntuleri/ana-sayfa.png)
 
+<p align="center">
+  <img src="docs/ekran-goruntuleri/hakkimizda.png" width="49%" alt="Hakkımızda sayfası">
+  <img src="docs/ekran-goruntuleri/randevu-formu.png" width="49%" alt="Randevu formu">
+</p>
+
 ## Kullanılan teknolojiler
 
 - **HTML5**
